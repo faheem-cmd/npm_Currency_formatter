@@ -1,0 +1,26 @@
+{
+  "name": "currencyformatter_f7",
+  "version": "1.0.0",
+  "description": "Convert digits in to Currency Fromat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-cmd/npm_Currency_formatter.git"
+  },
+  "keywords": [
+    "['currency'",
+    "'formatter'",
+    "'converter'",
+    "'amount",
+    "converter']"
+  ],
+  "author": "Muhammed Faheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-cmd/npm_Currency_formatter/issues"
+  },
+  "homepage": "https://github.com/faheem-cmd/npm_Currency_formatter#readme"
+}
