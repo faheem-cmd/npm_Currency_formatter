@@ -9,4 +9,5 @@ npm i currencyformatter_f7
 
 # Usage Example
 
-<img width="1440" alt="Screenshot 2022-07-02 at 12 11 11 PM" src="https://user-images.githubusercontent.com/56709898/176989883-1332d103-2182-48b8-9cef-fa625939f28a.png">
+<img width="1148" alt="Screenshot 2022-07-02 at 12 11 27 PM" src="https://user-images.githubusercontent.com/56709898/176989896-0ecaa818-8ae9-4578-98a2-3cd10faa8863.png">
+
